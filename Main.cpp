@@ -66,4 +66,6 @@ int main()
 
 	cout << "Days between 1.2.2019 and 1.3.2019: " << d10.days_between(d11) << endl; //Check both Februaries
 	cout << "Days between 1.2.2020 and 1.3.2020 (leap year): " << d12.days_between(d13) << endl;
+	system("pause");
+	return 0;
 }
